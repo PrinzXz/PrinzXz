@@ -16,23 +16,9 @@
 
 ---
 
-### 🏆 Trophies
+### ⏳ Productive Time
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PrinzXz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="PrinzXz's Trophies" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>☕ Support Me</h3>
-  <a href="https://saweria.co/USERNAME_SAWERIA">
-    <img src="https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" />
-  </a>
-  <a href="https://trakteer.id/USERNAME_TRAKTEER">
-    <img src="https://img.shields.io/badge/Trakteer-C13584?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Trakteer" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrinzXz&theme=tokyonight&utcOffset=7" alt="PrinzXz's Productive Time" />
 </div>
 
 ---
