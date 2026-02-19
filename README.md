@@ -47,3 +47,14 @@
   <small>Profile views</small><br>
   <img src="https://komarev.com/ghpvc/?username=PrinzXz&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
+
+---
+
+---
+<div align="center">
+  <img src="https://github.com/PrinzXz/PrinzXz/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LHcPHG26225B8J105J/giphy.gif" width="100%" />
+</div>
