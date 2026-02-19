@@ -16,6 +16,15 @@
 
 ---
 
+### 🏆 Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PrinzXz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="PrinzXz's Trophies" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,git,vscode,linux,mysql,md&theme=dark" />
@@ -25,9 +34,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinzXz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PrinzXz's Github Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinzXz&theme=tokyonight" alt="PrinzXz's Profile Details" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinzXz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinzXz&theme=tokyonight" alt="PrinzXz's Top Languages" />
 </div>
 
 <div align="center"> 
