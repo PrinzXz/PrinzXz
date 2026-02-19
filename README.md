@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  
-  <h1>Hi there, I'm <a href="https://github.com/PrinzXz">PrinzXz</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8uW9/giphy.gif" width="25px"></h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+PrinzXz;A+WhatsApp+Bot+Developer;Loves+Anime+%26+Coding;Building+Eugen+Bot+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 
   <h3>Bot Developer | JavaScript Enthusiast | Anime Fan</h3>
   
-  <p>Saya seorang pengembang yang hobi membuat Bot WhatsApp dan mengeksplorasi teknologi web. Pembuat <b>Eugen Bot</b>.</p>
+  <p>Saya seorang pengembang yang hobi membuat Bot WhatsApp dan mengeksplorasi teknologi web. Creator of <b>Eugen Bot</b>.</p>
 
   <p align="center">
     <a href="https://github.com/PrinzXz?tab=repositories">
-      <img src="https://img.shields.io/badge/All%20Projects-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Check_My_Projects-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
@@ -17,13 +17,9 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,vscode,linux,mysql,md&theme=dark" />
+</div>
 
 ---
 
