@@ -25,6 +25,18 @@
 
 ---
 
+<div align="center">
+  <h3>☕ Support Me</h3>
+  <a href="https://saweria.co/USERNAME_SAWERIA">
+    <img src="https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" />
+  </a>
+  <a href="https://trakteer.id/USERNAME_TRAKTEER">
+    <img src="https://img.shields.io/badge/Trakteer-C13584?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Trakteer" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,git,vscode,linux,mysql,md&theme=dark" />
